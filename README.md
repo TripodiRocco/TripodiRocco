@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since ...<br>📚 Sto studiando Java<br>🎯 Goals: ...<br>🎲 Fun fact: Possiedo una tazza da prima che iniziassi il corso in Develhope con una reinterpretazione del logo di Java e me ne sono accorto solo recentemente</p>
+<p align="center">📚 Continuo a studiare Java<br>🎯 Goal: Diventare un giorno un professionista in grado di spaziare dalla parte di progettazione a quella di sviluppo<br>🎲 Fun fact: Possiedo una tazza da prima che iniziassi il corso in Develhope con una reinterpretazione del logo di Java e me ne sono accorto solo recentemente</p>
 
 ###
 
@@ -73,7 +73,7 @@
   <a href="rocco.tripodi1994@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="roccotripodi94" target="_blank">
+  <a href="https://www.instagram.com/roccotripodi94/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
