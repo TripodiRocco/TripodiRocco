@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since ...<br>📚 Sto studiando Java<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">✨ Creating bugs since ...<br>📚 Sto studiando Java<br>🎯 Goals: ...<br>🎲 Fun fact: Possiedo una tazza da prima che iniziassi il corso in Develhope con una reinterpretazione del logo di Java e me ne sono accorto solo recentemente</p>
 
 ###
 
